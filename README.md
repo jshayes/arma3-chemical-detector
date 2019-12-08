@@ -2,7 +2,9 @@
 Copy the `chemicalDetector.sqf` file into the root of you mission.
 
 # Usage
+```
 [object, maxDistance, minDistance, condition] execVM "chemicalDetector.sqf";
+```
 
 | Parameter | Required? | Type | Description |
 | --- | --- | --- | --- |
