@@ -2,6 +2,7 @@
 Copy the `chemicalDetector.sqf` file into the root of you mission.
 
 # Usage
+Execute this script locally for each player. For example, add it to `initPlayerLocal.sqf`.
 ```
 [object, maxDistance, minDistance, condition] execVM "chemicalDetector.sqf";
 ```
